@@ -1,0 +1,22 @@
+{
+  "name": "mysql-node",
+  "version": "1.0.0",
+  "description": "\"Node js connectivity with mysql\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit369/mysql-node.git"
+  },
+  "author": "Amit Chaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit369/mysql-node/issues"
+  },
+  "homepage": "https://github.com/amit369/mysql-node#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
